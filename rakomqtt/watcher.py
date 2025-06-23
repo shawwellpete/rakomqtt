@@ -40,4 +40,4 @@ def _listen(udp_sock, mqtt_client):
             if not processed_bytes:
                 continue
             topic, mqtt_payload = processed_bytes
-            mqtt_client.publish(topic, json.dumps(mqtt_payload))
+            mqtt_client.publish(topic, json.dumps(mqtt_payload), retain=True)
