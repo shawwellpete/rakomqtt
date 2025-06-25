@@ -1,4 +1,4 @@
-Original readme from @marengaz(https://github.com/shawwellpete/rakomqtt#:~:text=marengaz%20Ben%20Marengo)
+Original readme from @marengaz
 
 
 # rako mqtt
