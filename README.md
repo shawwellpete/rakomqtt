@@ -1,3 +1,13 @@
+> ## ⚠️ This fork is superseded by [rako2mqtt](https://github.com/shawwellpete/rako2mqtt)
+>
+> This was a minimal fork of the unmaintained `marengaz/rakomqtt`. It has been
+> replaced by a clean-room async rewrite with first-class Home Assistant support
+> (native RGBW composite lights, no command-queue saturation under bursts, Python 3.12).
+>
+> 👉 **Use [github.com/shawwellpete/rako2mqtt](https://github.com/shawwellpete/rako2mqtt) instead.**
+
+---
+
 Original readme from @marengaz
 
 
